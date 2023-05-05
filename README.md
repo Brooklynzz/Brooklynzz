@@ -1,5 +1,4 @@
-<h2 align="center">Me chamo Marcus Vinícius</h2>
-<h2 align="center">My name is Marcus Vinícius</h2>
+<h2 align="center">Me chamo Marcus Vinícius/My name is Marcus Vinícius</h2>
 <h3 align="center">Pt-Br: Sou um estudante de Ciências da Computação apaixonado por Java e CSS.</h3>
 <h3 align="center">En-Us: I'm a Science Computer student, in love with Java and CSS</h3>
 
