@@ -1,13 +1,22 @@
-<h2 align="center">Me chamo Marcus Vinícius/My name is Marcus Vinícius</h2>
-<h3 align="center">Pt-Br: Prazer, eu sou um estudante de Ciências da Computação entusiasta de Java e CSS.</h3>
-<h3 align="center">En-Us: I'm a Science Computer student, Java and CSS enthusiast</h3>
+```java
+public class Danuzia {
+    public static void main(String[] args) {
+        System.out.println("Olá, meu nome é Marcus");
+        
+        String[] estudandoAtualmente = {"Spring Boot", "Angular"};
+      for (String i = tenhoInteresse, i++) {
+        IA + Automação}
+        
+      else if (Jogos, Filmes, Taylor Swift!!) { 
+        System.out.println("Conecte comigo!"}
+  
+"Everything you lose is a step you take"
+```
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=brooklynzz&label=Visitas&color=000000&style=flat-square" alt="brooklynzz" /> </p>
 
-<h3 align="center">Linguagens e Ferramentas:</h3>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Brooklynzz&show_icons=true&count_private=true&hide_border=true&title_color=e07a5f&icon_color=e07a5f&text_color=ebcfb2&bg_color=0d1117" alt="Brooklyn github stats"/>  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brooklynzz&layout=compact&hide_border=true&title_color=e07a5f&text_color=ebcfb2&bg_color=0d1117" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brooklynzz&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="brooklynzz" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=brooklynzz&show_icons=true&theme=tokyonight&locale=en" alt="brooklynzz" /></p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e07a5f&height=120&section=footer"/>
