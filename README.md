@@ -5,7 +5,7 @@ public class Brooklyn {
         
         String[] estudandoAtualmente = {"Spring Boot", "Angular"};
       for (String i = tenhoInteresse, i++) {
-        IA + Minecraft!!}
+        Bots + Plugins para Minecraft!!}
         
       else if (Jogos, Filmes, Taylor Swift) { 
         System.out.println("Conecte comigo!"}
