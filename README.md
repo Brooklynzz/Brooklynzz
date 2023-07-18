@@ -3,9 +3,9 @@ public class Brooklyn {
     public static void main(String[] args) {
         System.out.println("Olá, meu nome é Marcus");
         
-        String[] estudandoAtualmente = {"Spring Boot", "Angular"};
+        String[] estudandoAtualmente = {"Spring Boot", "React JS"};
       for (String i = tenhoInteresse, i++) {
-        Bots + Plugins para Minecraft!!}
+        Bots + Games}
         
       else if (Jogos, Filmes, Taylor Swift) { 
         System.out.println("Conecte comigo!"}
