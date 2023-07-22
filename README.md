@@ -7,7 +7,7 @@ public class Brooklyn {
       for (String i = tenhoInteresse, i++) {
         Bots + Games}
         
-      else if (Jogos, Filmes, Taylor Swift) { 
+      else if (Jogos, Filmes, Livros e Taylor Swift) { 
         System.out.println("Conecte comigo!"}
   
 "Everything you lose is a step you take"
