@@ -3,7 +3,7 @@ public class Brooklyn {
     public static void main(String[] args) {
         System.out.println("Olá, meu nome é Marcus Vinícius");
         
-        String[] estudandoAtualmente = {"Spring Boot", "Angular"};
+        String[] estudandoAtualmente = {"Spring Boot", "Angular", "Vaadin"};
       for (String i = tenhoInteresse, i++) {
         Bots + Games}
         
