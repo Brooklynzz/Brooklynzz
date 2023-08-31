@@ -3,12 +3,21 @@ public class Brooklyn {
     public static void main(String[] args) {
         System.out.println("Olá, meu nome é Marcus Vinícius");
         
+        // Atualmente estou estudando
         String[] estudandoAtualmente = {"Spring Boot", "Angular", "Vaadin"};
-      for (String i = tenhoInteresse, i++) {
-        Bots + Games}
+        for (String interesse : estudandoAtualmente) {
+            System.out.println("Tenho interesse em: " + interesse);
+        }
         
-      else if (Jogos, Filmes, Livros e Taylor Swift) { 
-        System.out.println("Conecte comigo!"}
+        // Outros interesses
+        String[] outrosInteresses = {"Jogos", "Filmes", "Livros", "Taylor Swift"};
+        for (String interesse : outrosInteresses) {
+            System.out.println("Além disso, gosto de: " + interesse);
+        }
+        
+        System.out.println("Conecte-se comigo!");
+    }
+}
   
 "Everything you lose is a step you take"
 ```
