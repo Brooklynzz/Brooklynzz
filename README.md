@@ -1,7 +1,7 @@
 ```java
 public class Brooklyn {
     public static void main(String[] args) {
-        System.out.println("Olá, meu nome é Marcus Vinícius");
+        System.out.println("Olá, meu nome é Marcus Vinícius!");
         
         // Atualmente estou estudando
         String[] estudandoAtualmente = {"Spring Boot", "Angular", "Vaadin"};
