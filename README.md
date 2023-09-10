@@ -4,7 +4,7 @@ public class Brooklyn {
         System.out.println("Olá, meu nome é Marcus Vinícius!");
         
         // Atualmente estou estudando
-        String[] estudandoAtualmente = {"Spring Boot", "Angular", "Vaadin"};
+        String[] estudandoAtualmente = {"JUnit", "Angular", "Vaadin"};
         for (String interesse : estudandoAtualmente) {
             System.out.println("Tenho interesse em: " + interesse);
         }
